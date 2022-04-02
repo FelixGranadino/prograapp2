@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+color-profile {
+    background-color:aquamarine;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 100px;
+}
+
+.card {
+
+    background-color:beige;
+    padding:15%;
+
+}
